@@ -1,0 +1,16 @@
+# 10 Technical Background 
+- based on HL7 FHIR standard 
+
+## 10.1 Underlying Technologies 
+
+- Background Information for users new to FHIR
+    - FHIR overview
+    - Developer’s introduction (or Clinical introduction)
+    - FHIR data types
+    - Using codes
+    - References between resources
+    - How to read resource & profile definitions
+    - Base resource  
+- Other IGs to be Familiar with 
+    - US Core 
+    - Structured Data Capture 
